@@ -1,0 +1,68 @@
+@charset "UTF-8"; 
+
+
+
+body{
+    background-image: url('../imagem/fundo1.jpeg');
+    background-size: 350px;
+    border-radius: 10px;
+    
+    max-width: 100% 0;
+    padding: 70px 0 0 0 ;
+    padding-top: auto;
+    
+
+}
+
+form {
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+    border: 20px solid rgb(218, 217, 217);
+    border-radius: 3em;
+    padding-top: 10px;
+    padding: 10px 15px 35px 15px ;
+   border-color: rgb(240, 219, 193);font-family:monospace;
+}
+
+.inputSubmit{
+    background-color: rgb(155, 100, 34);
+    border-radius: 10px !important;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center !important;
+    text-decoration: none;
+    line-height: 20px;   
+    border: 2px solid rgb(155, 100, 34);
+    background-color: rgb(155, 100, 34);
+    
+}
+
+button{
+    background-color: rgb(155, 100, 34);
+    border-radius: 10px !important;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center !important;
+    text-decoration: none;
+    line-height: 20px;   
+    border: 2px solid rgb(155, 100, 34);
+    background-color: rgb(155, 100, 34);
+    
+}
+
+label {
+    text-align: justify !important;
+}
+
+h1{
+    text-align: center;
+}
+
